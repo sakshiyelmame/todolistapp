@@ -4,6 +4,8 @@
 
 ### Description
 - This is an iOS Assignment project that I built using Swift and using SwiftUI design architecture to achieve the end result.
+- In this app, RealamDatabase is used.
+- In this application, we can add the data, also we can delete the data and also update the data.
 
 ### Language 👾
 - Swift
